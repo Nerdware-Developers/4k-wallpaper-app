@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "689079688738",
+    "firebase_url": "https://wallpaper-app-7fd3e-default-rtdb.firebaseio.com",
+    "project_id": "wallpaper-app-7fd3e",
+    "storage_bucket": "wallpaper-app-7fd3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689079688738:android:33e0bf00c2b2a03a77347b",
+        "android_client_info": {
+          "package_name": "com.nerdware.A4kwallapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3SuAPj4eJD07LmlXdWAKspy4eJpiboo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2829905592411826~4728747412"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689079688738:android:37d711f0756312e577347b",
+        "android_client_info": {
+          "package_name": "com.nerdware.wall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3SuAPj4eJD07LmlXdWAKspy4eJpiboo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689079688738:android:bc7ed9ab7bae513a77347b",
+        "android_client_info": {
+          "package_name": "com.nerdware.wallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3SuAPj4eJD07LmlXdWAKspy4eJpiboo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2829905592411826~9347290564"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689079688738:android:bbb02b3a3ea7657277347b",
+        "android_client_info": {
+          "package_name": "com.nerdware.wally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3SuAPj4eJD07LmlXdWAKspy4eJpiboo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689079688738-0fh6oadvmpn6jf3cqbljhj879b81ovns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

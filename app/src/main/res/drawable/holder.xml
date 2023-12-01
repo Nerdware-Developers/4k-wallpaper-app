@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Add the desired placeholder shape (e.g., rectangle, circle, etc.) -->
+        <!-- For example, to create a rectangular placeholder with a gray background: -->
+        <solid android:color="#CCCCCC" />
+        <corners android:radius="8dp" />
+        <size android:width="100dp" android:height="100dp" />
+    </shape>
+
+</selector>

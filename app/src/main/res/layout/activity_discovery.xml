@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#3F51B5"
+    android:layout_height="match_parent"
+    tools:context=".Discovery">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:id="@+id/relat"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Categories"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:textSize="28sp"
+            android:textColor="@color/black"/>
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/disco"
+        android:layout_below="@id/disc1"
+        android:layout_above="@id/disc2"
+        />
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/disc2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        android:layout_alignParentBottom="true"
+        app:adUnitId="ca-app-pub-2829905592411826/5130164488" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/disc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        android:layout_below="@id/relat"
+        app:adUnitId="ca-app-pub-2829905592411826/2771594450" />
+
+</RelativeLayout>

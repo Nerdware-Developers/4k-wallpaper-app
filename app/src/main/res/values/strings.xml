@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">4K WALLPAPERS</string>
+    <string name="splash_name">Wallpapers</string>
+    <string name="splash_description">4K|HD|Double|Edge Light</string>
+    <string name="home_title">Discovery</string>
+    <string name="apply_btn">Apply</string>
+    <string name="download_btn">Download</string>
+</resources>
